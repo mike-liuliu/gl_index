@@ -10,7 +10,7 @@
     
     return the_index_value
 
-then call the index_plot_first_n_label_one_data function.
+then call the index_plot_first_n_label_one_data function. Note the "smaller_better" hyper-parameter.
 
 3. License.
    
