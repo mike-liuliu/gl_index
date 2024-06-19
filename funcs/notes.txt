@@ -1,0 +1,1 @@
+1. In the "gl_index_Bayesian_GMM" function, we use Bayesian Gaussian Mixture to do the density estimation. Readers can test other density estimation methods.
