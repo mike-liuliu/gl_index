@@ -28,9 +28,6 @@ License of new data: Creative Commons Attribution 4.0 International
 
 5. The "multiple_label_145.p" file is larger than 100MB, so it is stored on Git Large File Storage (LFS), readers may need to download it separately.
 
-6. Performance of other indices like Silhouette coefficient (SC), Calinski Harabasz index (CH) etc., can be found at:
-https://github.com/mike-liuliu/Min-Max-Jump-distance/tree/main
-
  
 
 
